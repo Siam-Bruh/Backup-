@@ -15,12 +15,12 @@ def banner():
     ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚══════╝
      🔰 Telegram Auto Backup Tool 🔰
     """)
-    print("\033[1;34m Owner: তোমার নাম | GitHub: তোমার GitHub লিংক\033[0m")
-    print("\033[1;34m Telegram: তোমার টেলিগ্রাম ইউজারনেম\033[0m\n")
+    print("\033[1;34m Owner: SiamBhau | GitHub:Siam-Bruh\033[0m")
+    print("\033[1;34m Telegram: SiamBhau\033[0m\n")
 
 # 🔹 Telegram Bot Config
-TOKEN = "তোমার_বটের_API_TOKEN"
-CHAT_ID = "তোমার_টেলিগ্রাম_CHAT_ID"
+TOKEN = "8019449835:AAFM7db1mQFX-LyXpTbNKUqygTERQHYYsi8"
+CHAT_ID = "6296611162"
 
 bot = telebot.TeleBot(TOKEN)
 
